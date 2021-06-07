@@ -1,2 +1,2 @@
 # Computer-Network-Experience7-server-software
-主要为阅读例程代码的注释。自己改的虽然不报错但是还没运行过。
+主要为阅读例程代码的注释。自己改的虽然不报错但是还没运行过。主要是下载了一些Linux系统的头文件，并修改了一些找不到头文件的函数（如fork函数用了createprocess）
